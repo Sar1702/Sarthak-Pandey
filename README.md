@@ -1,7 +1,7 @@
 # Sarthak-Pandey
 HI there
 <h1 align="center">Hi 👋, I'm Sarthak Pandey</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">An Aspiring Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sar1702&label=Profile%20views&color=0e75b6&style=flat" alt="sar1702" /> </p>
 
